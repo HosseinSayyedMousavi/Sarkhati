@@ -1,0 +1,5 @@
+selenium==4.6.0
+PyQt5==5.15.7
+requests==2.25.1
+ntplib==0.4.0
+pywin32==306
